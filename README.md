@@ -1,0 +1,1 @@
+Developed a Fake News Detection system using Python to identify misleading news content. Implemented text preprocessing and machine learning models for classification. Trained and evaluated the model using labeled datasets to improve accuracy and support reliable, data-driven predictions.
